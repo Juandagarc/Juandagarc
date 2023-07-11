@@ -2,7 +2,7 @@
 <img src="https://media.tenor.com/FmzCM6l_BVsAAAAd/happyduc-duck.gif" width="300px">
 </p>
 
-# `#10B722` Welcome to my github! ✨
+# `Welcome to my github!` ✨
 
 - 👨🏽‍💻|-Fullstack developer-|👨🏽‍💻 </br>
 
