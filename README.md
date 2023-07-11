@@ -1,5 +1,5 @@
 <p align="center">
-<img src="[https://c.tenor.com/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif](https://i.makeagif.com/media/7-05-2021/s6CsqP.gif)" width="300px" >
+<img src="[https://i.makeagif.com/media/7-05-2021/s6CsqP.gif)" width="300px" >
 </p>
 
 # Welcome to my github! ✨
