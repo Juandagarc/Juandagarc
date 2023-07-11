@@ -22,7 +22,7 @@
  <img src="https://github-readme-stats.vercel.app/api?username=Juandagarc&count_private=true&show_icons=true&theme=merko&include_all_commits=true" alt="Stats" />
    
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Juandagarc&theme=merko&hide_border=true"  width="520" alt="Juandagarc"/>
- <img src="https://github-profile-trophy.vercel.app/?username=Juandagarc&theme=onedark"  width="520" alt="Juandagarc"/>
+ <img src="https://github-profile-trophy.vercel.app/?username=Juandagarc&theme=tokyonight"  width="800" alt="Juandagarc"/>
 
   </div>
   <div align="center">
