@@ -2,7 +2,7 @@
 <img src="https://c.tenor.com/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" width="100px" >
 </p>
 
-### Welcome to my github! 👋
+# Welcome to my github! ✨
 
 - 👨🏽‍💻|-Fullstack developer-|👨🏽‍💻 </br>
 
