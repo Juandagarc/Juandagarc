@@ -8,6 +8,7 @@
 
 -Nowadays I'm using:</br></br>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+<img width="30%" align="right"  src="https://octodex.github.com/images/ironcat.jpg">
 
 
 ## Frontend:
