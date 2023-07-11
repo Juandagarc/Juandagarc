@@ -30,7 +30,7 @@
 
 <p align="center"> <img alt="Current Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Juandagarc&theme=dark" /> </p>
   
-## <img src="https://cdn.domestika.org/c_fill,dpr_auto,f_auto,q_auto,w_767/v1487327588/content-items/001/868/981/8f8c0835862413.570645eca3011-original.gif?1487327588" width="25"> <b> Contact me 💎</b>
+## <img src="https://cdn.domestika.org/c_fill,dpr_auto,f_auto,q_auto,w_767/v1487327588/content-items/001/868/981/8f8c0835862413.570645eca3011-original.gif" width="25"> <b> Contact me 💎</b>
   
 [![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:juan.garcia17@utp.edu.co)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/santiago-valencia-leon/)
