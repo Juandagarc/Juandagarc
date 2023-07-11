@@ -22,7 +22,7 @@
    
    <a href="https://github.com/Juandagarc"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Juandagarc&theme=merko&hide_border=true"  width="520" alt="Juandagarc"/></a>
   
- ![Deepu's Trophy](https://github-profile-trophy.vercel.app/?username=Juandagarc&theme=oceandark&column=4&no-frame=true)
+ ![Deepu's Trophy](https://github-profile-trophy.vercel.app/?username=Juandagarc&theme=ocean-dark&column=4&no-frame=true)
   </div>
    
 
