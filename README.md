@@ -41,5 +41,5 @@
 
 
 
-[![GitHub Juandagarc](https://img.shields.io/github/followers/Juandagarc?label=follow&style=social&logoColor=black)](https://github.com/Juandagarc)
+[![GitHub Juandagarc](https://media.tenor.com/zVNzIFTdYIEAAAAC/call.gif)](https://github.com/Juandagarc)
 ![Profile views](https://gpvc.arturio.dev/Juandagarc)  
