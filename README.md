@@ -20,7 +20,8 @@
    
    <a href="https://github.com/Juandagarc"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Juandagarc&theme=dracula&hide_border=true"  width="520" alt="Juandagarc"/></a>
   
-
+![Deepu's Trophy](https://github-profile-trophy.vercel.app/?username=Juandagarc&theme=dracula&column=4&no-frame=true)
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juandagarc&theme=dracula&layout=compact)](https://github.com/Juandagarc/github-readme-stats"/>
  
   </div>
    
