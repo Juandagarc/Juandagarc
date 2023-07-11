@@ -5,9 +5,9 @@
 # `Welcome to my github!` ✨
 
 | 👨🏽‍💻 | -Fullstack developer- | 👨🏽‍💻 |
-|--------|----------------------|--------|
-| Nowadays I'm using: | | |
-| | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) |
+|------------------------------|--------|
+| Nowadays I'm using:  | |
+| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) | |
 
 
 ## Frontend:
