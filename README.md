@@ -18,7 +18,7 @@
 ## <img src="https://usagif.com/wp-content/uploads/2022/4hv9xm/dancing-duck-acegifcom-17.gif" width="40"> <b>Github Stats</b>
 
  <div align="left">
- <img src="https://github-readme-stats.vercel.app/api?username=Juandagarc&count_private=true&show_icons=true&theme=dracula&include_all_commits=true" alt="Stats" />
+ <img src="https://github-readme-stats.vercel.app/api?username=Juandagarc&count_private=true&show_icons=true&theme=merko&include_all_commits=true" alt="Stats" />
    
    <a href="https://github.com/Juandagarc"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Juandagarc&theme=dracula&hide_border=true"  width="520" alt="Juandagarc"/></a>
   
