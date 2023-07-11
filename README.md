@@ -25,7 +25,7 @@
 
   </div>
   <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Juandagarc&theme=matrix&column=3"  width="300" alt="Juandagarc"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Juandagarc&theme=matrix&column=3"  width="400" alt="Juandagarc"/>
    </div>
    
 
