@@ -1,5 +1,5 @@
 <p align="center">
-![Descripción de la imagen](https://i.makeagif.com/media/7-05-2021/s6CsqP.gif)
+<img src="https://media.tenor.com/FmzCM6l_BVsAAAAd/happyduc-duck.gif">
 </p>
 
 # Welcome to my github! ✨
