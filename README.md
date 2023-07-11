@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://media.tenor.com/FmzCM6l_BVsAAAAd/happyduc-duck.gif">
+<img src="https://media.tenor.com/FmzCM6l_BVsAAAAd/happyduc-duck.gif" width="100px">
 </p>
 
 # Welcome to my github! ✨
