@@ -1,9 +1,9 @@
 <p align="center">
 <img src="https://media.tenor.com/FmzCM6l_BVsAAAAd/happyduc-duck.gif" width="300px">
 </p>
-<img width="30%" align="right"  src="https://octodex.github.com/images/ironcat.jpg">
-# `Welcome to my github!` ✨
 
+# `Welcome to my github!` ✨
+<img width="30%" align="right"  src="https://octodex.github.com/images/ironcat.jpg">
 - 👨🏽‍💻|-Fullstack developer-|👨🏽‍💻 </br>
 
 -Nowadays I'm using:</br></br>
