@@ -3,7 +3,7 @@
 </p>
 
 # `Welcome to my github!` ✨
-<img width="30%" align="right"  src="https://octodex.github.com/images/ironcat.jpg">
+<img width="30%" align="right"  src="https://media.tenor.com/7zKZuIk31GEAAAAM/bird-dance.gif">
 - 👨🏽‍💻|-Fullstack developer-|👨🏽‍💻 </br>
 
 -Nowadays I'm using:</br></br>
@@ -32,7 +32,7 @@
   
    </div>
 
-## <img src="https://media.tenor.com/7zKZuIk31GEAAAAM/bird-dance.gif" width="40"> <b>GitHub Streak</b>
+## <img src="https://cdn.pixabay.com/animation/2023/01/19/18/24/18-24-20-426_512.gif" width="40"> <b>GitHub Streak</b>
 
 <p align="center"> <img alt="Current Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Juandagarc&theme=dark" /> </p>
   
