@@ -34,7 +34,7 @@
 
 <p align="center"> <img alt="Current Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Juandagarc&theme=dark" /> </p>
   
-## <img src="https://media.tenor.com/zVNzIFTdYIEAAAAC/call.gif" width="100"> <b> Contact me 💎</b>
+## <img src="https://media.tenor.com/zVNzIFTdYIEAAAAC/call.gif" width="40"> <b> Contact me 💎</b>
   
 [![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:juan.garcia17@utp.edu.co)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com)
