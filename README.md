@@ -25,7 +25,22 @@
 
   </div>
   <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Juandagarc&theme=matrix&column=3"  width="400" alt="Juandagarc"/>
+  
+   <div>
+    <img src="https://github-profile-trophy.vercel.app/?username=Juandagarc&theme=matrix&column=3" width="400" alt="Juandagarc" />
+  </div>
+  <div>
+    <img src="https://github-profile-trophy.vercel.app/?username=Juandagarc&theme=matrix&column=4" width="400" alt="Juandagarc" />
+  </div>
+  <div>
+    <img src="https://github-profile-trophy.vercel.app/?username=Juandagarc&theme=matrix&column=5" width="400" alt="Juandagarc" />
+  </div>
+  <div>
+    <img src="https://github-profile-trophy.vercel.app/?username=Juandagarc&theme=matrix&column=6" width="400" alt="Juandagarc" />
+  </div>
+  <div>
+    <img src="https://github-profile-trophy.vercel.app/?username=Juandagarc&theme=matrix&column=7" width="400" alt="Juandagarc" />
+  </div>
    </div>
    
 
