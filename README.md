@@ -15,11 +15,11 @@
 
  <div align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=Juandagarc&count_private=false&show_icons=true&theme=highcontrast&include_all_commits=true" alt="Juandagarc |Stats" />
-![Deepu's Trophy](https://github-profile-trophy.vercel.app/?username=Juandagarc&theme=dracula&column=4&no-frame=true)
+
    
    <a href="https://github.com/Juandagarc"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Juandagarc&theme=dracula&hide_border=true"  width="520" alt="Juandagarc"/></a>
   
- 
+ ![Deepu's Trophy](https://github-profile-trophy.vercel.app/?username=Juandagarc&theme=dracula&column=4&no-frame=true)
   </div>
    
 
