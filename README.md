@@ -5,7 +5,7 @@
 ### Welcome to my Profile 👩‍💻💻
 
 - 🖥️🖱️ FrontEnd web developer. </br></br>
-[![wakatime](https://wakatime.com/badge/user/caad850a-914f-49b9-9c3e-74dbc4d58b18.svg)](https://wakatime.com/@caad850a-914f-49b9-9c3e-74dbc4d58b18)
+[![wakatime](https://wakatime.com/badge/user/18efb7ff-a1b8-42bd-ade2-5bd5f8e15f4f.svg)](https://wakatime.com/@18efb7ff-a1b8-42bd-ade2-5bd5f8e15f4f)
 
 
 - 👩🏻‍  I’m currently working on:</br></br>
