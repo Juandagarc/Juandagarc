@@ -26,7 +26,7 @@
   </div>
    
 
-## <img src="https://media.giphy.com/media/Mp5uJLEE9Ompq/giphy.gif" width="25"> <b>GitHub Streak</b>
+## <img src="https://media.tenor.com/7zKZuIk31GEAAAAM/bird-dance.gif" width="40"> <b>GitHub Streak</b>
 
 <p align="center"> <img alt="Current Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Juandagarc&theme=dark" /> </p>
   
