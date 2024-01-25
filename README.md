@@ -6,7 +6,8 @@
 <img width="30%" align="right"  src="https://media.tenor.com/7zKZuIk31GEAAAAM/bird-dance.gif">
 - 👨🏽‍💻|-Fullstack developer-|👨🏽‍💻 </br>
 
--My portfolio: https://portafolio-mswa.vercel.app/About
+-My portfolio: 
+https://portfolio-javascript-mu.vercel.app/
 
 -Nowadays I'm using:</br></br>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Typescript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white) ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  ![adobexd](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
