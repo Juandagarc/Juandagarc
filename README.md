@@ -74,7 +74,7 @@ status: open to collaborate
 ## <img src="https://usagif.com/wp-content/uploads/2022/4hv9xm/dancing-duck-acegifcom-17.gif" width="40"/> &nbsp; GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Juandagarc&show_icons=true&theme=merko&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180" alt="stats"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Juandagarc&show_icons=true&theme=merko&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&v=2" height="180" alt="stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juandagarc&layout=compact&theme=merko&hide_border=true&langs_count=8" height="180" alt="top langs"/>
 </p>
 
