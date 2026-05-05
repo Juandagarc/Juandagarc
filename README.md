@@ -79,7 +79,7 @@ status: open to collaborate
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Juandagarc&theme=merko&hide_border=true&border_radius=8" alt="streak"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Juandagarc&theme=merko&hide_border=true&border_radius=8" alt="streak"/>
 </p>
 
 <p align="center">
